@@ -1,6 +1,7 @@
 # esphome-components
 
-esphome 
+Components for esphome 
+
 This is the esphome / home assistant integration in form of a custom
 component to support 
 * DS2482-100 and DS2482-800 
