@@ -14,5 +14,5 @@ Check subsequent copyrights intensively if you want to use it.
 I'm not ready with the cleanup - only happy it now finally works for me.
 
 # Warning
-This is _not_ fully working. Something unfortunately wents wrong at about 
+DS2482-xxx is _not_ fully working. Something unfortunately wents wrong at about 
 10 sensors. Looks like illegal occupation of memory.
